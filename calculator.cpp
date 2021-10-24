@@ -1,5 +1,11 @@
 #include "calculator.h"
 
+// Створення власного виправлення:
+// ???
+// ***
+// +++
+// &&&
+
 int Calculator::Add (double a, double b)
 {
  HEAD
